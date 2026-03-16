@@ -2,3 +2,6 @@ Git Collabartion
 Learning Git and Github
 Login feature added   
 Login feature by Developer A
+Login feature added
+Login feature by Developer A 
+Login feature by Developer A and B
