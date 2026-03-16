@@ -1,2 +1,3 @@
 User login module
 Added email login option 
+Added password validation 
