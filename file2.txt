@@ -1,0 +1,2 @@
+User login module
+Added email login option 
