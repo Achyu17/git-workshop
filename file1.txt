@@ -1,2 +1,2 @@
 Login Module
-Added email login 
+Added phone login  
